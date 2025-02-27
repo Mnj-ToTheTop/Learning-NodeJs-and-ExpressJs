@@ -2,5 +2,25 @@
   "dependencies": {
     "bootstrap": "^5.3.3",
     "lodash": "^4.17.21"
-  }
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "name": "for-real",
+  "version": "1.0.0",
+  "description": "learning node and express",
+  "main": "08-httpModule.js",
+  "scripts": {
+    "start": "node 08-httpModule.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mnj-ToTheTop/Learning-NodeJs-and-ExpressJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mnj-ToTheTop/Learning-NodeJs-and-ExpressJs/issues"
+  },
+  "homepage": "https://github.com/Mnj-ToTheTop/Learning-NodeJs-and-ExpressJs#readme"
 }
