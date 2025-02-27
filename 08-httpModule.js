@@ -6,7 +6,7 @@ const server = http.createServer((req, res) => {
   } else if (req.url === "/about") {
     res.end("This is the about page.");
   } else {
-    res.end(`<h1>OOpps!!<h1><a href='/'>go back</a>`);
+    res.end(`<h1>OOppPP!!<h1><a href='/'>go back</a>`);
   }
 });
 

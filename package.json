@@ -11,7 +11,8 @@
   "description": "learning node and express",
   "main": "08-httpModule.js",
   "scripts": {
-    "start": "node 08-httpModule.js"
+    "start": "node app.js",
+    "dev": "nodemon app.js"
   },
   "repository": {
     "type": "git",
