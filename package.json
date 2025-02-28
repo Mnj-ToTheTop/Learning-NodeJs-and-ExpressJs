@@ -9,10 +9,10 @@
   "name": "for-real",
   "version": "1.0.0",
   "description": "learning node and express",
-  "main": "08-httpModule.js",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "dev": "nodemon app.js"
+    "dev": "nodemon Express-1.js"
   },
   "repository": {
     "type": "git",
